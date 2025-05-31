@@ -14,7 +14,7 @@
 
 1.  **Locate the Melody Mod Folder:** After installing Melody, find the mod's main folder (`\Documents\Timberborn\Mods\Melody`)
 2.  **Add Your Music Files:**
-    * Copy your custom `.ogg` music files into the appropriate subfolders. I used the `.ogg` file type as this is what Timberborn uses.
+    * Copy your custom `.ogg` or `.mp3` music files into the appropriate subfolders. I personally use the `.ogg` file type as this is what Timberborn uses, however either *should* be fine.
     * Each folder has a name for where the tracks will play. Ex: `ForTemperate` means music added to that folder will only play during temperate (non-drought/tide) weather. `ForHazardous` is for Droughts and Bad Tides only. `ForBoth` is obviously for both temperate and hazardous weather.
     * **IMPORTANT:** Your music files **must be in the .ogg (Ogg Vorbis) format**. Other formats (like .mp3, .wav) will not work. You can use VLC or Audacity (if you use Audacity, I personally used their github repo as I trust github more) to convert tracks for free; I tested the tracks out primarily using Audacity, but your milage may vary. These two programs are what I used them on, however I am not associated with either of those projects, so if you have another option that you're comfortable with then use that instead.
 
@@ -44,7 +44,7 @@
 ## Troubleshooting
 
 * **Custom Music Not Playing?**
-    * Ensure your music files are in `.ogg` format.
+    * Ensure your music files are in `.ogg` or `.mp3` format.
     * Verify the folder structure is correct: `Melody/CustomMusic/ForTemperate/your_song.ogg`, etc.
     * Check the `Player.log` file for Timberborn (usually found in `C:\Users\[YourUserName]\AppData\LocalLow\Mechanistry\Timberborn\`) for any error messages from "MelodyMusic".
 * **Mod Not Loading / Game Crashing?**
