@@ -1,0 +1,27 @@
+{
+    "name": "Melody.ModCode",
+    "rootNamespace": "Mods.Melody.Scripts",
+    "references": [
+        ""
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "0Harmony.dll",
+        "Timberborn.GameSound.dll",
+        "Timberborn.HazardousWeatherSystem.dll",
+        "Timberborn.ModManagerScene.dll",
+        "Timberborn.SoundSystem.dll",
+        "Timberborn.Modding.dll",
+        "UnityEngine.CoreModule.dll",
+        "UnityEngine.AudioModule.dll",
+        "UnityEngine.UnityWebRequestModule.dll",
+        "UnityEngine.UnityWebRequestAudioModule.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

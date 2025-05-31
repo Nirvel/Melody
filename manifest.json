@@ -1,0 +1,14 @@
+{
+    "Name": "Melody: Add Custom Music",
+    "Version": "1",
+    "Id": "Melody",
+    "MinimumGameVersion": "0.7.0.0",
+    "Description": "Adds Temperate music to Droughts/BT as well as custom music to both Temperate and Drought/BT weather.",
+    "DllName": "MelodyMusic.dll",
+    "RequiredMods": [
+        {
+            "Id": "Harmony",
+            "MinimumVersion": "0.0.0.0"
+        }
+    ]
+}
