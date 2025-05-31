@@ -4,7 +4,7 @@
 **Version:** 1.0
 **Game:** Timberborn
 **Minimum Game Version:** 0.7.0.0
-**Required Dependencies:** Harmony (usually installed with BepInEx and Timberborn modding setups)
+**Required Dependencies:** Harmony (installed from timberborn.mod.io)
 
 ---
 
